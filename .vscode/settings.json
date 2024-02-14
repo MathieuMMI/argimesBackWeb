@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "dta",
+            "database": "${workspaceFolder:argimesS6Webbackend}/argimes.db"
+        }
+    ]
+}
